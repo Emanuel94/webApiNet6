@@ -1,0 +1,24 @@
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\Entities\obj\Debug\net6.0\ref\Entities.dll

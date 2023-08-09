@@ -1,0 +1,30 @@
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\Contracts\bin\Debug\net6.0\Contracts.deps.json
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\Contracts\bin\Debug\net6.0\Contracts.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\Contracts\bin\Debug\net6.0\Contracts.pdb
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\Contracts\bin\Debug\net6.0\Entities.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\Contracts\bin\Debug\net6.0\Entities.pdb
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\Contracts\obj\Debug\net6.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\Contracts\obj\Debug\net6.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfo.cs
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\Contracts\obj\Debug\net6.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\Contracts\obj\Debug\net6.0\Contracts.csproj.CopyComplete
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\Contracts\obj\Debug\net6.0\Contracts.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\Contracts\obj\Debug\net6.0\refint\Contracts.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\Contracts\obj\Debug\net6.0\Contracts.pdb
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\Contracts\obj\Debug\net6.0\ref\Contracts.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\Contracts\bin\Debug\net6.0\Contracts.deps.json
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\Contracts\bin\Debug\net6.0\Contracts.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\Contracts\bin\Debug\net6.0\Contracts.pdb
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\Contracts\bin\Debug\net6.0\Entities.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\Contracts\bin\Debug\net6.0\Entities.pdb
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\Contracts\obj\Debug\net6.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\Contracts\obj\Debug\net6.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfo.cs
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\Contracts\obj\Debug\net6.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\Contracts\obj\Debug\net6.0\Contracts.csproj.CopyComplete
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\Contracts\obj\Debug\net6.0\Contracts.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\Contracts\obj\Debug\net6.0\refint\Contracts.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\Contracts\obj\Debug\net6.0\Contracts.pdb
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\Contracts\obj\Debug\net6.0\ref\Contracts.dll

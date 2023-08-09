@@ -1,0 +1,34 @@
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\LoggerService\bin\Debug\net6.0\LoggerService.deps.json
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\LoggerService\bin\Debug\net6.0\LoggerService.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\LoggerService\bin\Debug\net6.0\LoggerService.pdb
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\LoggerService\bin\Debug\net6.0\Contracts.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\LoggerService\bin\Debug\net6.0\Entities.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\LoggerService\bin\Debug\net6.0\Contracts.pdb
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\LoggerService\bin\Debug\net6.0\Entities.pdb
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\LoggerService\obj\Debug\net6.0\LoggerService.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\LoggerService\obj\Debug\net6.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfoInputs.cache
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfo.cs
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\LoggerService\obj\Debug\net6.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\LoggerService\obj\Debug\net6.0\LoggerService.csproj.CopyComplete
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\LoggerService\obj\Debug\net6.0\LoggerService.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\LoggerService\obj\Debug\net6.0\refint\LoggerService.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\LoggerService\obj\Debug\net6.0\LoggerService.pdb
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\LoggerService\obj\Debug\net6.0\ref\LoggerService.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\LoggerService\bin\Debug\net6.0\LoggerService.deps.json
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\LoggerService\bin\Debug\net6.0\LoggerService.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\LoggerService\bin\Debug\net6.0\LoggerService.pdb
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\LoggerService\bin\Debug\net6.0\Contracts.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\LoggerService\bin\Debug\net6.0\Entities.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\LoggerService\bin\Debug\net6.0\Contracts.pdb
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\LoggerService\bin\Debug\net6.0\Entities.pdb
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\LoggerService\obj\Debug\net6.0\LoggerService.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\LoggerService\obj\Debug\net6.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfoInputs.cache
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfo.cs
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\LoggerService\obj\Debug\net6.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\LoggerService\obj\Debug\net6.0\LoggerService.csproj.CopyComplete
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\LoggerService\obj\Debug\net6.0\LoggerService.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\LoggerService\obj\Debug\net6.0\refint\LoggerService.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\LoggerService\obj\Debug\net6.0\LoggerService.pdb
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net Plurasigth\BackEndV2\WebApi\LoggerService\obj\Debug\net6.0\ref\LoggerService.dll

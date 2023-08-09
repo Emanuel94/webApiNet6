@@ -1,0 +1,323 @@
+2023-08-01 16:36:58.0889 Info Message Template Auto Format enabled
+2023-08-01 16:36:58.4151 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2023-08-01 16:36:58.4151 Trace Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2023-08-01 16:36:58.4289 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2023-08-01 16:36:58.4289 Trace Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2023-08-01 16:36:58.4289 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2023-08-01 16:36:58.4289 Trace Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2023-08-01 16:36:58.4289 Debug Adding target NLog.Targets.FileTarget(Name=logfile)
+2023-08-01 16:36:58.4362 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-01 16:36:58.4362 Trace ParseRulesElement
+2023-08-01 16:36:58.4743 Debug Watching file-filter 'nlog.config' in directory: C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\Asp.Application
+2023-08-01 16:36:58.4743 Debug --- NLog configuration dump ---
+2023-08-01 16:36:58.4743 Debug Targets:
+2023-08-01 16:36:58.4743 Debug FileTarget(Name=logfile)
+2023-08-01 16:36:58.4833 Debug Rules:
+2023-08-01 16:36:58.4833 Debug logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ logfile ]
+2023-08-01 16:36:58.4833 Debug --- End of NLog configuration dump ---
+2023-08-01 16:36:58.5046 Trace FindReachableObject<System.Object>:
+2023-08-01 16:36:58.5046 Trace Scanning LoggingRule 'logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ logfile ]'
+2023-08-01 16:36:58.5046 Trace  Scanning Property Targets 'System.Collections.Generic.List`1[NLog.Targets.Target]' System.Collections.Generic.IList`1[NLog.Targets.Target]
+2023-08-01 16:36:58.5149 Trace  Scanning FileTarget 'FileTarget(Name=logfile)'
+2023-08-01 16:36:58.5149 Trace   Scanning Property FileName 'C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\internal_logs\internallog.txt' NLog.Layouts.Layout
+2023-08-01 16:36:58.5149 Trace   Scanning SimpleLayout 'C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\internal_logs\internallog.txt'
+2023-08-01 16:36:58.5149 Trace    Scanning Property LayoutRenderers 'NLog.LayoutRenderers.LayoutRenderer[]' System.Collections.Generic.IEnumerable`1[NLog.LayoutRenderers.LayoutRenderer]
+2023-08-01 16:36:58.5149 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2023-08-01 16:36:58.5149 Trace   Scanning Property Layout '${longdate} ${level:uppercase=true} ${message}' NLog.Layouts.Layout
+2023-08-01 16:36:58.5149 Trace   Scanning SimpleLayout '${longdate} ${level:uppercase=true} ${message}'
+2023-08-01 16:36:58.5149 Trace    Scanning Property LayoutRenderers 'NLog.LayoutRenderers.LayoutRenderer[]' System.Collections.Generic.IEnumerable`1[NLog.LayoutRenderers.LayoutRenderer]
+2023-08-01 16:36:58.5314 Trace    Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2023-08-01 16:36:58.5314 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2023-08-01 16:36:58.5314 Trace    Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2023-08-01 16:36:58.5314 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2023-08-01 16:36:58.5314 Trace    Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2023-08-01 16:36:58.5314 Trace  Scanning Property ChildRules 'System.Collections.Generic.List`1[NLog.Config.LoggingRule]' System.Collections.Generic.IList`1[NLog.Config.LoggingRule]
+2023-08-01 16:36:58.5314 Trace  Scanning Property Filters 'System.Collections.Generic.List`1[NLog.Filters.Filter]' System.Collections.Generic.IList`1[NLog.Filters.Filter]
+2023-08-01 16:36:58.5528 Info Validating config: TargetNames=logfile, ConfigItems=10, FilePath=C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\Asp.Application\nlog.config
+2023-08-01 16:36:58.5636 Debug Unused target checking is started... Rule Count: 1, Target Count: 1
+2023-08-01 16:36:58.5768 Debug Unused target checking is completed. Total Rule Count: 1, Total Target Count: 1, Unused Target Count: 0
+2023-08-01 16:36:58.5768 Trace Initializing Layout Renderer: ${message}
+2023-08-01 16:36:58.5768 Trace Initializing Layout Renderer: ${literal}
+2023-08-01 16:36:58.5768 Trace Initializing Layout Renderer: ${level}
+2023-08-01 16:36:58.5768 Trace Initializing Layout Renderer: ${literal}
+2023-08-01 16:36:58.5929 Trace Initializing Layout Renderer: ${longdate}
+2023-08-01 16:36:58.5929 Trace Initializing ${longdate} ${level:uppercase=true} ${message}
+2023-08-01 16:36:58.6123 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2023-08-01 16:36:58.6123 Trace Scanning SimpleLayout '${longdate} ${level:uppercase=true} ${message}'
+2023-08-01 16:36:58.6123 Trace  Scanning Property LayoutRenderers 'NLog.LayoutRenderers.LayoutRenderer[]' System.Collections.Generic.IEnumerable`1[NLog.LayoutRenderers.LayoutRenderer]
+2023-08-01 16:36:58.6123 Trace  Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2023-08-01 16:36:58.6123 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2023-08-01 16:36:58.6123 Trace  Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2023-08-01 16:36:58.6123 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2023-08-01 16:36:58.6123 Trace  Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2023-08-01 16:36:58.6255 Trace Initializing Layout Renderer: ${literal}
+2023-08-01 16:36:58.6255 Trace Initializing C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\internal_logs\internallog.txt
+2023-08-01 16:36:58.6255 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2023-08-01 16:36:58.6255 Trace Scanning SimpleLayout 'C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\internal_logs\internallog.txt'
+2023-08-01 16:36:58.6255 Trace  Scanning Property LayoutRenderers 'NLog.LayoutRenderers.LayoutRenderer[]' System.Collections.Generic.IEnumerable`1[NLog.LayoutRenderers.LayoutRenderer]
+2023-08-01 16:36:58.6255 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2023-08-01 16:36:58.6255 Trace Initializing FileTarget(Name=logfile)
+2023-08-01 16:36:58.6255 Trace FindReachableObject<NLog.Layouts.Layout>:
+2023-08-01 16:36:58.6255 Trace Scanning FileTarget 'FileTarget(Name=logfile)'
+2023-08-01 16:36:58.6255 Trace  Scanning Property FileName 'C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\internal_logs\internallog.txt' NLog.Layouts.Layout
+2023-08-01 16:36:58.6255 Trace  Scanning Property Layout '${longdate} ${level:uppercase=true} ${message}' NLog.Layouts.Layout
+2023-08-01 16:36:58.6391 Trace FileTarget(Name=logfile) has 2 layouts
+2023-08-01 16:36:58.6391 Trace FileTarget(Name=logfile): Using appenderFactory: NLog.Internal.FileAppenders.SingleProcessFileAppender+Factory
+2023-08-01 16:37:54.5463 Debug Targets configured when LogLevel >= Debug for Logger: LoggerService.LoggerManager
+2023-08-01 16:37:54.5463 Debug Logger LoggerService.LoggerManager [Debug] => logfile
+2023-08-01 16:37:54.5463 Debug Logger LoggerService.LoggerManager [Info] => logfile
+2023-08-01 16:37:54.5463 Debug Logger LoggerService.LoggerManager [Warn] => logfile
+2023-08-01 16:37:54.5463 Debug Logger LoggerService.LoggerManager [Error] => logfile
+2023-08-01 16:37:54.5463 Debug Logger LoggerService.LoggerManager [Fatal] => logfile
+2023-08-01 16:37:54.5896 Debug FileTarget(Name=logfile): Preparing for new file: 'C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\internal_logs\internallog.txt'
+2023-08-01 16:37:54.6076 Debug FileTarget(Name=logfile): Creating file appender: 'C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\internal_logs\internallog.txt'
+2023-08-01 16:37:54.6114 Trace FileTarget(Name=logfile): Opening C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\internal_logs\internallog.txt with allowFileSharedWriting=False
+2023-08-01 16:37:54.5463 INFO Return all ownners from Database
+2023-08-01 16:37:54.8638 ERROR Something  is wrong inside GetAllOwners EndPoint: Error mapping types.
+
+Mapping types:
+List`1 -> IEnumerable`1
+System.Collections.Generic.List`1[[Entities.Models.Owner, Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.IEnumerable`1[[Entities.DataTransferObjects.OwnerDto, Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2023-08-01 16:38:34.1836 INFO Return all ownners from Database
+2023-08-01 16:40:14.5292 ERROR Something  is wrong inside GetAllOwners EndPoint: Error mapping types.
+
+Mapping types:
+List`1 -> IEnumerable`1
+System.Collections.Generic.List`1[[Entities.Models.Owner, Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.IEnumerable`1[[Entities.DataTransferObjects.OwnerDto, Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2023-08-01 17:00:01.5818 Info Message Template Auto Format enabled
+2023-08-01 17:00:01.7402 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2023-08-01 17:00:01.7402 Trace Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2023-08-01 17:00:01.7537 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2023-08-01 17:00:01.7537 Trace Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2023-08-01 17:00:01.7537 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2023-08-01 17:00:01.7537 Trace Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2023-08-01 17:00:01.7537 Debug Adding target NLog.Targets.FileTarget(Name=logfile)
+2023-08-01 17:00:01.7537 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-01 17:00:01.7537 Trace ParseRulesElement
+2023-08-01 17:00:01.8021 Debug Watching file-filter 'nlog.config' in directory: C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\Asp.Application
+2023-08-01 17:00:01.8021 Debug --- NLog configuration dump ---
+2023-08-01 17:00:01.8021 Debug Targets:
+2023-08-01 17:00:01.8021 Debug FileTarget(Name=logfile)
+2023-08-01 17:00:01.8021 Debug Rules:
+2023-08-01 17:00:01.8139 Debug logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ logfile ]
+2023-08-01 17:00:01.8139 Debug --- End of NLog configuration dump ---
+2023-08-01 17:00:01.8139 Trace FindReachableObject<System.Object>:
+2023-08-01 17:00:01.8139 Trace Scanning LoggingRule 'logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ logfile ]'
+2023-08-01 17:00:01.8284 Trace  Scanning Property Targets 'System.Collections.Generic.List`1[NLog.Targets.Target]' System.Collections.Generic.IList`1[NLog.Targets.Target]
+2023-08-01 17:00:01.8284 Trace  Scanning FileTarget 'FileTarget(Name=logfile)'
+2023-08-01 17:00:01.8284 Trace   Scanning Property FileName 'C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\internal_logs\internallog.txt' NLog.Layouts.Layout
+2023-08-01 17:00:01.8284 Trace   Scanning SimpleLayout 'C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\internal_logs\internallog.txt'
+2023-08-01 17:00:01.8284 Trace    Scanning Property LayoutRenderers 'NLog.LayoutRenderers.LayoutRenderer[]' System.Collections.Generic.IEnumerable`1[NLog.LayoutRenderers.LayoutRenderer]
+2023-08-01 17:00:01.8284 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2023-08-01 17:00:01.8284 Trace   Scanning Property Layout '${longdate} ${level:uppercase=true} ${message}' NLog.Layouts.Layout
+2023-08-01 17:00:01.8284 Trace   Scanning SimpleLayout '${longdate} ${level:uppercase=true} ${message}'
+2023-08-01 17:00:01.8284 Trace    Scanning Property LayoutRenderers 'NLog.LayoutRenderers.LayoutRenderer[]' System.Collections.Generic.IEnumerable`1[NLog.LayoutRenderers.LayoutRenderer]
+2023-08-01 17:00:01.8426 Trace    Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2023-08-01 17:00:01.8426 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2023-08-01 17:00:01.8426 Trace    Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2023-08-01 17:00:01.8426 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2023-08-01 17:00:01.8426 Trace    Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2023-08-01 17:00:01.8426 Trace  Scanning Property ChildRules 'System.Collections.Generic.List`1[NLog.Config.LoggingRule]' System.Collections.Generic.IList`1[NLog.Config.LoggingRule]
+2023-08-01 17:00:01.8426 Trace  Scanning Property Filters 'System.Collections.Generic.List`1[NLog.Filters.Filter]' System.Collections.Generic.IList`1[NLog.Filters.Filter]
+2023-08-01 17:00:01.8426 Info Validating config: TargetNames=logfile, ConfigItems=10, FilePath=C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\Asp.Application\nlog.config
+2023-08-01 17:00:01.8603 Debug Unused target checking is started... Rule Count: 1, Target Count: 1
+2023-08-01 17:00:01.8603 Debug Unused target checking is completed. Total Rule Count: 1, Total Target Count: 1, Unused Target Count: 0
+2023-08-01 17:00:01.8603 Trace Initializing Layout Renderer: ${message}
+2023-08-01 17:00:01.8603 Trace Initializing Layout Renderer: ${literal}
+2023-08-01 17:00:01.8603 Trace Initializing Layout Renderer: ${level}
+2023-08-01 17:00:01.8603 Trace Initializing Layout Renderer: ${literal}
+2023-08-01 17:00:01.8736 Trace Initializing Layout Renderer: ${longdate}
+2023-08-01 17:00:01.8736 Trace Initializing ${longdate} ${level:uppercase=true} ${message}
+2023-08-01 17:00:01.8736 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2023-08-01 17:00:01.8736 Trace Scanning SimpleLayout '${longdate} ${level:uppercase=true} ${message}'
+2023-08-01 17:00:01.8736 Trace  Scanning Property LayoutRenderers 'NLog.LayoutRenderers.LayoutRenderer[]' System.Collections.Generic.IEnumerable`1[NLog.LayoutRenderers.LayoutRenderer]
+2023-08-01 17:00:01.8736 Trace  Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2023-08-01 17:00:01.8736 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2023-08-01 17:00:01.8736 Trace  Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2023-08-01 17:00:01.8895 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2023-08-01 17:00:01.8895 Trace  Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2023-08-01 17:00:01.8895 Trace Initializing Layout Renderer: ${literal}
+2023-08-01 17:00:01.8895 Trace Initializing C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\internal_logs\internallog.txt
+2023-08-01 17:00:01.9081 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2023-08-01 17:00:01.9081 Trace Scanning SimpleLayout 'C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\internal_logs\internallog.txt'
+2023-08-01 17:00:01.9081 Trace  Scanning Property LayoutRenderers 'NLog.LayoutRenderers.LayoutRenderer[]' System.Collections.Generic.IEnumerable`1[NLog.LayoutRenderers.LayoutRenderer]
+2023-08-01 17:00:01.9081 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2023-08-01 17:00:01.9081 Trace Initializing FileTarget(Name=logfile)
+2023-08-01 17:00:01.9324 Trace FindReachableObject<NLog.Layouts.Layout>:
+2023-08-01 17:00:01.9362 Trace Scanning FileTarget 'FileTarget(Name=logfile)'
+2023-08-01 17:00:01.9362 Trace  Scanning Property FileName 'C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\internal_logs\internallog.txt' NLog.Layouts.Layout
+2023-08-01 17:00:01.9362 Trace  Scanning Property Layout '${longdate} ${level:uppercase=true} ${message}' NLog.Layouts.Layout
+2023-08-01 17:00:01.9362 Trace FileTarget(Name=logfile) has 2 layouts
+2023-08-01 17:00:01.9557 Trace FileTarget(Name=logfile): Using appenderFactory: NLog.Internal.FileAppenders.SingleProcessFileAppender+Factory
+2023-08-01 17:00:31.2626 Debug Targets configured when LogLevel >= Debug for Logger: LoggerService.LoggerManager
+2023-08-01 17:00:31.2626 Debug Logger LoggerService.LoggerManager [Debug] => logfile
+2023-08-01 17:00:31.2626 Debug Logger LoggerService.LoggerManager [Info] => logfile
+2023-08-01 17:00:31.2626 Debug Logger LoggerService.LoggerManager [Warn] => logfile
+2023-08-01 17:00:31.2644 Debug Logger LoggerService.LoggerManager [Error] => logfile
+2023-08-01 17:00:31.2644 Debug Logger LoggerService.LoggerManager [Fatal] => logfile
+2023-08-01 17:00:31.2831 Debug FileTarget(Name=logfile): Preparing for new file: 'C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\internal_logs\internallog.txt'
+2023-08-01 17:00:31.2831 Debug FileTarget(Name=logfile): Creating file appender: 'C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\internal_logs\internallog.txt'
+2023-08-01 17:00:31.2831 Trace FileTarget(Name=logfile): Opening C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\internal_logs\internallog.txt with allowFileSharedWriting=False
+2023-08-01 17:00:31.2644 INFO Return all ownners from Database
+2023-08-01 18:02:25.9919 Info Message Template Auto Format enabled
+2023-08-01 18:02:26.1740 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2023-08-01 18:02:26.1740 Trace Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2023-08-01 18:02:26.1882 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2023-08-01 18:02:26.1882 Trace Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2023-08-01 18:02:26.1882 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2023-08-01 18:02:26.1882 Trace Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2023-08-01 18:02:26.1882 Debug Adding target NLog.Targets.FileTarget(Name=logfile)
+2023-08-01 18:02:26.1882 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-01 18:02:26.1882 Trace ParseRulesElement
+2023-08-01 18:02:26.2417 Debug Watching file-filter 'nlog.config' in directory: C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\Asp.Application
+2023-08-01 18:02:26.2417 Debug --- NLog configuration dump ---
+2023-08-01 18:02:26.2417 Debug Targets:
+2023-08-01 18:02:26.2417 Debug FileTarget(Name=logfile)
+2023-08-01 18:02:26.2492 Debug Rules:
+2023-08-01 18:02:26.2492 Debug logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ logfile ]
+2023-08-01 18:02:26.2492 Debug --- End of NLog configuration dump ---
+2023-08-01 18:02:26.2492 Trace FindReachableObject<System.Object>:
+2023-08-01 18:02:26.2492 Trace Scanning LoggingRule 'logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ logfile ]'
+2023-08-01 18:02:26.2660 Trace  Scanning Property Targets 'System.Collections.Generic.List`1[NLog.Targets.Target]' System.Collections.Generic.IList`1[NLog.Targets.Target]
+2023-08-01 18:02:26.2660 Trace  Scanning FileTarget 'FileTarget(Name=logfile)'
+2023-08-01 18:02:26.2660 Trace   Scanning Property FileName 'C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\internal_logs\internallog.txt' NLog.Layouts.Layout
+2023-08-01 18:02:26.2660 Trace   Scanning SimpleLayout 'C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\internal_logs\internallog.txt'
+2023-08-01 18:02:26.2660 Trace    Scanning Property LayoutRenderers 'NLog.LayoutRenderers.LayoutRenderer[]' System.Collections.Generic.IEnumerable`1[NLog.LayoutRenderers.LayoutRenderer]
+2023-08-01 18:02:26.2660 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2023-08-01 18:02:26.2660 Trace   Scanning Property Layout '${longdate} ${level:uppercase=true} ${message}' NLog.Layouts.Layout
+2023-08-01 18:02:26.2660 Trace   Scanning SimpleLayout '${longdate} ${level:uppercase=true} ${message}'
+2023-08-01 18:02:26.2660 Trace    Scanning Property LayoutRenderers 'NLog.LayoutRenderers.LayoutRenderer[]' System.Collections.Generic.IEnumerable`1[NLog.LayoutRenderers.LayoutRenderer]
+2023-08-01 18:02:26.2806 Trace    Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2023-08-01 18:02:26.2806 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2023-08-01 18:02:26.2806 Trace    Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2023-08-01 18:02:26.2806 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2023-08-01 18:02:26.2806 Trace    Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2023-08-01 18:02:26.2806 Trace  Scanning Property ChildRules 'System.Collections.Generic.List`1[NLog.Config.LoggingRule]' System.Collections.Generic.IList`1[NLog.Config.LoggingRule]
+2023-08-01 18:02:26.2806 Trace  Scanning Property Filters 'System.Collections.Generic.List`1[NLog.Filters.Filter]' System.Collections.Generic.IList`1[NLog.Filters.Filter]
+2023-08-01 18:02:26.2806 Info Validating config: TargetNames=logfile, ConfigItems=10, FilePath=C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\Asp.Application\nlog.config
+2023-08-01 18:02:26.2999 Debug Unused target checking is started... Rule Count: 1, Target Count: 1
+2023-08-01 18:02:26.2999 Debug Unused target checking is completed. Total Rule Count: 1, Total Target Count: 1, Unused Target Count: 0
+2023-08-01 18:02:26.2999 Trace Initializing Layout Renderer: ${message}
+2023-08-01 18:02:26.2999 Trace Initializing Layout Renderer: ${literal}
+2023-08-01 18:02:26.3120 Trace Initializing Layout Renderer: ${level}
+2023-08-01 18:02:26.3120 Trace Initializing Layout Renderer: ${literal}
+2023-08-01 18:02:26.3120 Trace Initializing Layout Renderer: ${longdate}
+2023-08-01 18:02:26.3120 Trace Initializing ${longdate} ${level:uppercase=true} ${message}
+2023-08-01 18:02:26.3120 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2023-08-01 18:02:26.3120 Trace Scanning SimpleLayout '${longdate} ${level:uppercase=true} ${message}'
+2023-08-01 18:02:26.3120 Trace  Scanning Property LayoutRenderers 'NLog.LayoutRenderers.LayoutRenderer[]' System.Collections.Generic.IEnumerable`1[NLog.LayoutRenderers.LayoutRenderer]
+2023-08-01 18:02:26.3120 Trace  Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2023-08-01 18:02:26.3120 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2023-08-01 18:02:26.3274 Trace  Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2023-08-01 18:02:26.3274 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2023-08-01 18:02:26.3274 Trace  Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2023-08-01 18:02:26.3274 Trace Initializing Layout Renderer: ${literal}
+2023-08-01 18:02:26.3274 Trace Initializing C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\internal_logs\internallog.txt
+2023-08-01 18:02:26.3274 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2023-08-01 18:02:26.3274 Trace Scanning SimpleLayout 'C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\internal_logs\internallog.txt'
+2023-08-01 18:02:26.3274 Trace  Scanning Property LayoutRenderers 'NLog.LayoutRenderers.LayoutRenderer[]' System.Collections.Generic.IEnumerable`1[NLog.LayoutRenderers.LayoutRenderer]
+2023-08-01 18:02:26.3274 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2023-08-01 18:02:26.3274 Trace Initializing FileTarget(Name=logfile)
+2023-08-01 18:02:26.3442 Trace FindReachableObject<NLog.Layouts.Layout>:
+2023-08-01 18:02:26.3442 Trace Scanning FileTarget 'FileTarget(Name=logfile)'
+2023-08-01 18:02:26.3442 Trace  Scanning Property FileName 'C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\internal_logs\internallog.txt' NLog.Layouts.Layout
+2023-08-01 18:02:26.3442 Trace  Scanning Property Layout '${longdate} ${level:uppercase=true} ${message}' NLog.Layouts.Layout
+2023-08-01 18:02:26.3442 Trace FileTarget(Name=logfile) has 2 layouts
+2023-08-01 18:02:26.3442 Trace FileTarget(Name=logfile): Using appenderFactory: NLog.Internal.FileAppenders.SingleProcessFileAppender+Factory
+2023-08-01 18:03:03.0941 Debug Targets configured when LogLevel >= Debug for Logger: LoggerService.LoggerManager
+2023-08-01 18:03:03.0941 Debug Logger LoggerService.LoggerManager [Debug] => logfile
+2023-08-01 18:03:03.0941 Debug Logger LoggerService.LoggerManager [Info] => logfile
+2023-08-01 18:03:03.0941 Debug Logger LoggerService.LoggerManager [Warn] => logfile
+2023-08-01 18:03:03.0941 Debug Logger LoggerService.LoggerManager [Error] => logfile
+2023-08-01 18:03:03.0941 Debug Logger LoggerService.LoggerManager [Fatal] => logfile
+2023-08-01 18:03:03.1430 Debug FileTarget(Name=logfile): Preparing for new file: 'C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\internal_logs\internallog.txt'
+2023-08-01 18:03:03.1650 Debug FileTarget(Name=logfile): Creating file appender: 'C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\internal_logs\internallog.txt'
+2023-08-01 18:03:03.1650 Trace FileTarget(Name=logfile): Opening C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\internal_logs\internallog.txt with allowFileSharedWriting=False
+2023-08-01 18:03:03.0941 INFO Return all ownners from Database
+2023-08-01 18:20:50.7181 INFO Returned owner  with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2023-08-02 17:51:22.2433 Info Message Template Auto Format enabled
+2023-08-02 17:51:24.4503 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2023-08-02 17:51:24.4503 Trace Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2023-08-02 17:51:24.4686 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2023-08-02 17:51:24.4686 Trace Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2023-08-02 17:51:24.4686 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2023-08-02 17:51:24.4686 Trace Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2023-08-02 17:51:24.4686 Debug Adding target NLog.Targets.FileTarget(Name=logfile)
+2023-08-02 17:51:24.4820 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-02 17:51:24.4820 Trace ParseRulesElement
+2023-08-02 17:51:24.5538 Debug Watching file-filter 'nlog.config' in directory: C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\Asp.Application
+2023-08-02 17:51:24.5607 Debug --- NLog configuration dump ---
+2023-08-02 17:51:24.5607 Debug Targets:
+2023-08-02 17:51:24.5607 Debug FileTarget(Name=logfile)
+2023-08-02 17:51:24.5723 Debug Rules:
+2023-08-02 17:51:24.5723 Debug logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ logfile ]
+2023-08-02 17:51:24.5723 Debug --- End of NLog configuration dump ---
+2023-08-02 17:51:24.5905 Trace FindReachableObject<System.Object>:
+2023-08-02 17:51:24.5905 Trace Scanning LoggingRule 'logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ logfile ]'
+2023-08-02 17:51:24.5905 Trace  Scanning Property Targets 'System.Collections.Generic.List`1[NLog.Targets.Target]' System.Collections.Generic.IList`1[NLog.Targets.Target]
+2023-08-02 17:51:24.5905 Trace  Scanning FileTarget 'FileTarget(Name=logfile)'
+2023-08-02 17:51:24.5905 Trace   Scanning Property FileName 'C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\internal_logs\internallog.txt' NLog.Layouts.Layout
+2023-08-02 17:51:24.5905 Trace   Scanning SimpleLayout 'C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\internal_logs\internallog.txt'
+2023-08-02 17:51:24.6040 Trace    Scanning Property LayoutRenderers 'NLog.LayoutRenderers.LayoutRenderer[]' System.Collections.Generic.IEnumerable`1[NLog.LayoutRenderers.LayoutRenderer]
+2023-08-02 17:51:24.6040 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2023-08-02 17:51:24.6040 Trace   Scanning Property Layout '${longdate} ${level:uppercase=true} ${message}' NLog.Layouts.Layout
+2023-08-02 17:51:24.6040 Trace   Scanning SimpleLayout '${longdate} ${level:uppercase=true} ${message}'
+2023-08-02 17:51:24.6040 Trace    Scanning Property LayoutRenderers 'NLog.LayoutRenderers.LayoutRenderer[]' System.Collections.Generic.IEnumerable`1[NLog.LayoutRenderers.LayoutRenderer]
+2023-08-02 17:51:24.6040 Trace    Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2023-08-02 17:51:24.6040 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2023-08-02 17:51:24.6040 Trace    Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2023-08-02 17:51:24.6040 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2023-08-02 17:51:24.6040 Trace    Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2023-08-02 17:51:24.6040 Trace  Scanning Property ChildRules 'System.Collections.Generic.List`1[NLog.Config.LoggingRule]' System.Collections.Generic.IList`1[NLog.Config.LoggingRule]
+2023-08-02 17:51:24.6040 Trace  Scanning Property Filters 'System.Collections.Generic.List`1[NLog.Filters.Filter]' System.Collections.Generic.IList`1[NLog.Filters.Filter]
+2023-08-02 17:51:24.6218 Info Validating config: TargetNames=logfile, ConfigItems=10, FilePath=C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\Asp.Application\nlog.config
+2023-08-02 17:51:24.6218 Debug Unused target checking is started... Rule Count: 1, Target Count: 1
+2023-08-02 17:51:24.6389 Debug Unused target checking is completed. Total Rule Count: 1, Total Target Count: 1, Unused Target Count: 0
+2023-08-02 17:51:24.6389 Trace Initializing Layout Renderer: ${message}
+2023-08-02 17:51:24.6389 Trace Initializing Layout Renderer: ${literal}
+2023-08-02 17:51:24.6389 Trace Initializing Layout Renderer: ${level}
+2023-08-02 17:51:24.6389 Trace Initializing Layout Renderer: ${literal}
+2023-08-02 17:51:24.6389 Trace Initializing Layout Renderer: ${longdate}
+2023-08-02 17:51:24.6389 Trace Initializing ${longdate} ${level:uppercase=true} ${message}
+2023-08-02 17:51:24.6510 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2023-08-02 17:51:24.6510 Trace Scanning SimpleLayout '${longdate} ${level:uppercase=true} ${message}'
+2023-08-02 17:51:24.6510 Trace  Scanning Property LayoutRenderers 'NLog.LayoutRenderers.LayoutRenderer[]' System.Collections.Generic.IEnumerable`1[NLog.LayoutRenderers.LayoutRenderer]
+2023-08-02 17:51:24.6510 Trace  Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2023-08-02 17:51:24.6510 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2023-08-02 17:51:24.6510 Trace  Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2023-08-02 17:51:24.6510 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2023-08-02 17:51:24.6510 Trace  Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2023-08-02 17:51:24.6510 Trace Initializing Layout Renderer: ${literal}
+2023-08-02 17:51:24.6510 Trace Initializing C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\internal_logs\internallog.txt
+2023-08-02 17:51:24.6510 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2023-08-02 17:51:24.6510 Trace Scanning SimpleLayout 'C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\internal_logs\internallog.txt'
+2023-08-02 17:51:24.6510 Trace  Scanning Property LayoutRenderers 'NLog.LayoutRenderers.LayoutRenderer[]' System.Collections.Generic.IEnumerable`1[NLog.LayoutRenderers.LayoutRenderer]
+2023-08-02 17:51:24.6651 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2023-08-02 17:51:24.6651 Trace Initializing FileTarget(Name=logfile)
+2023-08-02 17:51:24.6651 Trace FindReachableObject<NLog.Layouts.Layout>:
+2023-08-02 17:51:24.6651 Trace Scanning FileTarget 'FileTarget(Name=logfile)'
+2023-08-02 17:51:24.6651 Trace  Scanning Property FileName 'C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\internal_logs\internallog.txt' NLog.Layouts.Layout
+2023-08-02 17:51:24.6651 Trace  Scanning Property Layout '${longdate} ${level:uppercase=true} ${message}' NLog.Layouts.Layout
+2023-08-02 17:51:24.6651 Trace FileTarget(Name=logfile) has 2 layouts
+2023-08-02 17:51:24.6651 Trace FileTarget(Name=logfile): Using appenderFactory: NLog.Internal.FileAppenders.SingleProcessFileAppender+Factory
+2023-08-02 17:51:54.0869 Debug Targets configured when LogLevel >= Debug for Logger: LoggerService.LoggerManager
+2023-08-02 17:51:54.0883 Debug Logger LoggerService.LoggerManager [Debug] => logfile
+2023-08-02 17:51:54.0883 Debug Logger LoggerService.LoggerManager [Info] => logfile
+2023-08-02 17:51:54.0883 Debug Logger LoggerService.LoggerManager [Warn] => logfile
+2023-08-02 17:51:54.0883 Debug Logger LoggerService.LoggerManager [Error] => logfile
+2023-08-02 17:51:54.0883 Debug Logger LoggerService.LoggerManager [Fatal] => logfile
+2023-08-02 17:51:54.1250 Debug FileTarget(Name=logfile): Preparing for new file: 'C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\internal_logs\internallog.txt'
+2023-08-02 17:51:54.1431 Debug FileTarget(Name=logfile): Creating file appender: 'C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\internal_logs\internallog.txt'
+2023-08-02 17:51:54.1431 Trace FileTarget(Name=logfile): Opening C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\internal_logs\internallog.txt with allowFileSharedWriting=False
+2023-08-02 17:51:54.0883 INFO Return all ownners from Database
+2023-08-02 18:53:27.7449 Debug FileTarget(Name=logfile): Closed.
+2023-08-02 18:53:27.7449 Trace Closing C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\EjemplosAngular\EjemploLuis\example-code-maze-angular-net-core-series\BackEndV2\WebApi\internal_logs\internallog.txt
+2023-08-02 18:53:27.7449 Trace Closing Layout Renderer: ${literal}
+2023-08-02 18:53:27.7449 Trace Closing ${longdate} ${level:uppercase=true} ${message}
+2023-08-02 18:53:27.7449 Trace Closing Layout Renderer: ${longdate}
+2023-08-02 18:53:27.7449 Trace Closing Layout Renderer: ${literal}
+2023-08-02 18:53:27.7449 Trace Closing Layout Renderer: ${level}
+2023-08-02 18:53:27.7449 Trace Closing Layout Renderer: ${literal}
+2023-08-02 18:53:27.7449 Trace Closing Layout Renderer: ${message}
+2023-08-02 18:53:27.7449 Debug Finished closing logging configuration.
+2023-08-02 18:53:27.7449 Info LogFactory has been closed.
